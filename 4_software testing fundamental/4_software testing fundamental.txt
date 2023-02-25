@@ -1,0 +1,24 @@
+﻿1. Sebutkan dan jelaskan berbagai automation testing tool yang dapat digunakan (minimal 3)!
+beberapa toos automation testing yang dapat digunakan yaitu:
+* selenium yaitu pengujian otomatis dari berbagai jenis aplikasi web pada berbagai platform dan browser. biasanya menggunakan bahasa pemrograman Java, C#, Python, Ruby.Selenium juga memiliki fitur pengujian terdistribusi yang memungkinkan pengujian dijalankan pada beberapa mesin secara bersamaan.
+* Postman merupakan sebuah aplikasi (berupa plugin) untuk browser chrome, fungsinya adalah sebagai REST Client atau istilahnya adalah aplikasi yang digunakan untuk melakukan uji coba REST API yang telah kita buat.
+* jMeter atau The Apache JMeterTM merupakan aplikasi open source berbasis Java yang bisa digunakan untuk performance test. jMeter juga bisa digunakan untuk melakukan load/stress testing Web Application, FTP Application dan Database server test. jMeter juga bisa dijalankan dengan 2 cara, yaitu dengan GUI atau non-GUI ( Command line ). Untuk seorang beginner lebih baik  menggunakan cara yang pertama. Mudah dan tanpa melakukan scripting tertentu. Anda hanya tinggal membuat Test Plan dan mengisikan berapa thread & sample yang akan diujicobakan, running dan menganalisa hasil/report.
+https://toghr.com/10-tools-testing-terbaik/ 
+2. Tuliskan secara lengkap kesimpulan dari gambar berikut!
+  
+
+dari gambar diatas terdapat class CalculatorServiceImpl yang didalamnya terdapat method add untuk menambahkan dan method subtract untuk mengurangi
+
+
+
+
+
+
+3. Tuliskan secara lengkap kesimpulan dari gambar berikut!
+  
+
+dari gambar diatas dapat disimpulkan bahwa hasil analis pada testing baris pertama TestAdd_1 berjalan dengan  baik dan benar dengan waktu 0.0ms, baris kedua TestAdd_2 gagal, baris ketiga TestSubstract_1 berjalan dengan baik, sedangkan TestSubstract_2 gagal.
+4. Tulis kesimpulan dari hasil pengujian berikut.
+  
+
+dari gambar diatas dapat disimpulkan hasil testingnya yaitu, running selama 21.7 detik, firts scenario berjalan dengan baik dengan waktu 1.6 detik, second scenario selama 16,7 detik, response list hanya berjalan 89% ada 12 list yang tidak ada response

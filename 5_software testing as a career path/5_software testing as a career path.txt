@@ -1,0 +1,12 @@
+﻿Non Technical Skill 
+1. pertama analytical skill untuk menjadi software tester kita harus memiliki skill analisis yang baik karena skill ini bisa memudahkan kita untuk memecah tatanan software yang kompleks menjadi unit yang lebih sederhana setelah disederhanakan kita bisa menemukan kesalahan dalam software dengan mudah.
+2. kedua communication skill sebagai seorang super tester memiliki kemampuan untuk berkomunikasi dengan baik merupakan hal yang sangat penting pasalnya dalam melakukan pekerjaan kita akan berkomunikasi langsung dengan tim produk maupun tim development, kita mungkin juga akan membicarakan hal teknis kepada mereka yang tidak paham mengenai hal tersebut. selain itu juga dalam melakukan pekerjaan kita tentu akan melakukan tes terhadap hasil kerja tim developer memberikan kritik tanpa menyinggung mereka merupakan hal yang perlu diperhatikan. 
+3. time management mengapa karena mampu bekerja dengan memahami apa yang perlu dilakukan segera atau apa yang bisa dilakukan. 
+4. Good Attitude yaitu di mana sikap untuk tes publik detail orientation serta kemauan untuk belajar dalam industri perangkat lunak teknologi berkembang dengan kecepatan luar biasa dan software tester yang baik harus meningkatkan teknikal skill-nya dengan teknologi yang terus berubah. 
+5. fashion di bidang software testing tapi bagaimana kita menentukan apakah kita memiliki hasrat dalam suatu testing atau tidak apabila kita belum pernah menguji sebelumnya cobalah secara sederhana dan jika software testing tidak memuaskan kita bisa beralih ke hal lain yang lebih menarik minat. 
+
+
+Teknikal skill 
+1. command Linux ini berguna ketika kita akan melakukan automation serta instalasi suatu software.
+2. test management tools adalah sebuah software yang dikeluarkan oleh software tester untuk menyimpan informasi terkait bagaimana pengujian produk harus dilakukan perencanaan kegiatan pengujian serta dokumen terkait laporan status kegiatan penjaminan kualitas produk. 
+3. tracking management tools tracking management tools adalah sebuah software yang digunakan dalam mengelola suatu proyek atau developer agar berjalan secara efisien dan efektif.

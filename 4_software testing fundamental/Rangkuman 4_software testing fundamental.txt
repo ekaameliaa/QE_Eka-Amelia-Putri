@@ -1,0 +1,8 @@
+﻿* Definisi software testing adalah sebuah proses menganalisis sistem perangkat lunak untuk mendeteksi perbedaan antara kondisi yang sekarang dengan kondisi yang diperlukan untuk mengevaluasi fitur item perangkat lunak
+* Software testing sangat penting digunakan karena dapat menghemat uang, menjamin kualitas produk, menjaga kepuasan konsumen dan keamanan juga terjaga
+* Beberapa platform testing yaitu ada api, web, mobile, desktop
+* Tipe software testing ada fungsional testing dan non fungsional testing
+* Fungsional testing dibagi menjadi dua yaitu ada manual manual testing dan automatian testing
+* non fungsional testing ada dua yaitu performance testing dan maintenance testing
+* Level of testing
+Level of testing yang pertama ada unit testing yang kedua ada integration testing selanjutnya ada sistem testing dan ada sentence testing
